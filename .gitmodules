@@ -1,0 +1,3 @@
+[submodule "endoseg"]
+	path = endoseg
+	url = https://github.com/luiscarlosgph/endoseg.git
